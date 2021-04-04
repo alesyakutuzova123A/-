@@ -1446,7 +1446,7 @@ footer p {
         .request__form form {
         padding: 30px 0;
         width: 100%;
-        margin-bottom: 0;
+        margin-bottom: 60px;
         }
         .request__form form input {
         padding: 10px 0 10px 20px;
