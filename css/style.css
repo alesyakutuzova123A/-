@@ -1510,4 +1510,7 @@ footer p {
             .dots3, .dots4{
                 display: none;
             }
+            nav{
+                padding: 0;
+            }
 }
