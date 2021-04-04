@@ -1507,4 +1507,7 @@ footer p {
         #request > img:nth-child(2) {
             display: none;
             }
+            .dots3, .dots4{
+                display: none;
+            }
 }
